@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio-deanon/static/css/main.63b8177e.css",
-    "main.js": "/portfolio-deanon/static/js/main.d2438e35.js",
+    "main.css": "/portfolio-deanon/static/css/main.f84c482a.css",
+    "main.js": "/portfolio-deanon/static/js/main.ea74d68d.js",
     "static/js/787.28cb0dcd.chunk.js": "/portfolio-deanon/static/js/787.28cb0dcd.chunk.js",
+    "static/media/redesign.png": "/portfolio-deanon/static/media/redesign.0a382456d959243618a4.png",
+    "static/media/portfoliodemo.png": "/portfolio-deanon/static/media/portfoliodemo.192b698eb667dc5fde78.png",
+    "static/media/iterdesign.png": "/portfolio-deanon/static/media/iterdesign.384d7adbb77e798ef8ee.png",
     "index.html": "/portfolio-deanon/index.html",
-    "main.63b8177e.css.map": "/portfolio-deanon/static/css/main.63b8177e.css.map",
-    "main.d2438e35.js.map": "/portfolio-deanon/static/js/main.d2438e35.js.map",
+    "main.f84c482a.css.map": "/portfolio-deanon/static/css/main.f84c482a.css.map",
+    "main.ea74d68d.js.map": "/portfolio-deanon/static/js/main.ea74d68d.js.map",
     "787.28cb0dcd.chunk.js.map": "/portfolio-deanon/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.63b8177e.css",
-    "static/js/main.d2438e35.js"
+    "static/css/main.f84c482a.css",
+    "static/js/main.ea74d68d.js"
   ]
 }
